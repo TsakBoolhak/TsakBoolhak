@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsakBoolhak&layout=compact&theme=cobalt">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsakBoolhak&count_private=true&show_icons=true&langs_count=3&theme=cobalt">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsakBoolhak&count_private=true&show_icons=true&langs_count=3&theme=cobalt">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsakBoolhak&layout=compact&theme=cobalt">
 </p>
 <!--
 **TsakBoolhak/TsakBoolhak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
